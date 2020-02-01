@@ -1,4 +1,4 @@
-varibles:
+variables:
   buildConfiguration: 'Release'
 
 - task: DotNetCoreCLI@2
