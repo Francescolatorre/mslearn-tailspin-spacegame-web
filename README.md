@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/francescolatorre/mslearn-tailspin-spacegame-web/_apis/build/status/Francescolatorre.mslearn-tailspin-spacegame-web%20(1)?branchName=master)](https://dev.azure.com/francescolatorre/mslearn-tailspin-spacegame-web/_build/latest?definitionId=6&branchName=master)
 
 # Contributing
 
